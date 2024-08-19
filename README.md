@@ -1,0 +1,2 @@
+# Amazon-clone
+new repo
